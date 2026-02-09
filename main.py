@@ -16,7 +16,7 @@ pygame.display.set_caption("Flappy Bird")
 WHITE = (255, 255, 255)
 GREEN = (0, 255, 0)
 BLACK = (0, 0, 0)
-PLAYER = (255, 255, 255)
+PLAYER = (255, 0, 0)
 
 # Font Size -->
 big_font = pygame.font.SysFont(None, 80)
@@ -46,12 +46,12 @@ pipe_width = 70
 # TODO 2.1: A Little gap Problem
 # You probably noticed when running the code that it's impossible the player to go through the gaps
 # play around with the pipe_gap variable so that its big enough for the player to pass through
-pipe_gap = 20
+pipe_gap = 130
 pipe_height = random.randint(100, 400)
 # TODO 2.2: The too fast problem
 # The pipes are moving way too fast! Play around with the pipe_speed variable until you find a good
 # speed for the player to play in!
-pipe_speed = 20
+pipe_speed = 4
 
 score = 0
 game_over = False
@@ -81,6 +81,7 @@ while running:
                     # of the bird)
                     bird_velocity = 0
                     pipe_x = 400
+                    bird_y = 300
                     score = 0
                     game_over = False
                     game_started = True
