@@ -15,8 +15,8 @@ The project is designed as an introductory programming assignment (PA0). Most of
 
 ### Partner #1
 - **Name:** Josue Ortega
-- **Student Number:** 
-- **Email:** 
+- **Student Number:** 802-25-0538
+- **Email:** josue.ortega1@upr.edu
 
 ### Partner #2
 - **Name:** Sergio Garcia
