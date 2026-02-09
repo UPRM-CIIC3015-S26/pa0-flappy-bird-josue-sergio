@@ -14,14 +14,14 @@ The project is designed as an introductory programming assignment (PA0). Most of
 ## 👥 Team Information
 
 ### Partner #1
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name:** Josue Ortega
+- **Student Number:** 
+- **Email:** 
 
 ### Partner #2
-- **Name:**
-- **Student Number:**
-- **Email:**
+- **Name:** Sergio Garcia
+- **Student Number:** 802-25-0706
+- **Email:** sergio.garcia6@upr.edu
 
 ## ⭐ Bonus Features (Optional)
 List and briefly describe any additional features or enhancements implemented beyond the basic requirements.
